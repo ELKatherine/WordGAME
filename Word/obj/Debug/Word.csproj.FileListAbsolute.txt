@@ -1,0 +1,10 @@
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.csproj.AssemblyReference.cache
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.Form1.resources
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.csproj.GenerateResource.cache
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.csproj.CoreCompileInputs.cache
+C:\Users\lipch\source\repos\Word\Word\bin\Debug\Word.exe.config
+C:\Users\lipch\source\repos\Word\Word\bin\Debug\Word.exe
+C:\Users\lipch\source\repos\Word\Word\bin\Debug\Word.pdb
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.exe
+C:\Users\lipch\source\repos\Word\Word\obj\Debug\Word.pdb
